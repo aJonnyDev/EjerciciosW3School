@@ -5,4 +5,5 @@
 
     // ese objeto xml lo pasa todo a xml como tal
     print $xml -> asXML();
+    echo 'Apruebame pobre bello';
 ?>
